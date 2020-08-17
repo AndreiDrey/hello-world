@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> <!-- Iconite social media--> 
+
+        
+<head>
+  <title>Marian Puscas</title>
+</head>
+<meta charset="UTF-8">
+<body style="background-color: #111118">
+	<img src="galerie/logonume.png" alt="MarianPuscasLogo" class="center">
+
+<div>
+<!--<video class="center" src="test/testfinal.mp4" autoplay loop muted /> !-->
+<div id="tm-video-container">
+                <video autoplay playsinline muted loop id="tm-video">
+                    <!-- <source src="video/sunset-timelapse-video.mp4" type="video/mp4"> -->
+                        <source src="test/testfinal2.mp4" type="video/mp4">
+                </video>    
+            </div>
+</div>
+<div class="centrat">
+	<br><br>
+<!--<h1 class="missclara">Marian Puscas video-fotograf</h1>-->
+<h3 class="color-3"><b>Galerie</b></h3>
+<br><br><br>
+</div>
+ <div class="row">
+  <div class="column">
+    <img src="galerie/poza1.png" alt="Pozad1" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="galerie/poza2.png" alt="Pozad2" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="galerie/poza3.png" alt="Pozad3" style="width:100%">
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <img src="galerie/poza4.png" alt="Pozad4" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="galerie/poza5.png" alt="Pozad5" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="galerie/poza6.png" alt="Pozad6" style="width:100%">
+  </div>
+</div>
+
+<section id="about">
+ 		
+	<div class="container">
+		<div class="row">
+		<div class="col-md-5">
+			<div class="about-img">
+            
+            
+            <img class="man" src="galerie/despreminepng.png" alt="">
+            
+			</div>
+		</div>
+		<br>
+		
+		<div class="col-md-7 about-right">
+			
+			<h2 class="color-3"><b>Despre mine</b><br><br>
+
+			</h2>
+			
+			<p style="font-size:30px;">
+				Sunt fotograf peisagist şi deci implicit condiţiile atmosferice din momentul fotografierii sunt cele mai importante. O fotografie reuşită depinde de câteva aspecte obligatorii : lumina , subiect , unicitate , modul de abordare al cadrului respectiv.
+			
+				<br><br><button class="btn btn-danger" style="font-size:20px;" >Descarca CV-ul meu</button><br><br>
+			<h3 class="color-3"><b>Contact</b></h2>
+			<a href="https://www.instagram.com/marian.puscas/" class="fa fa-instagram"></a>
+			<a href="https://www.facebook.com/marian.puscas22/" class="fa fa-facebook"></a>
+			<a href="https://www.youtube.com/channel/UCyeFAeD8aTlOVogrP9hUfTA" class="fa fa-youtube"></a>
+				 <img src="galerie/sign.png"width="200" height="150">
+		</div>
+		</div>
+	</div> 
+
+
+
+
+
+</body>
+</html>
